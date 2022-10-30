@@ -1,0 +1,141 @@
+ul {
+    width: max-content;
+    }
+
+li {
+    float:left;
+    line-height:20px;
+    height:80px;
+    width:150px;
+    margin-left: 50px;
+    margin-top: 34px;
+    list-style: none;
+
+    }
+
+.hovera{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hovera:hover{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgba(6, 230, 6, 0.793);
+}
+.header-div{
+    float: left;
+    margin-left: 40px;
+}
+
+h1{
+    font-family: 'Island Moments', cursive;
+   text-align: center;
+}
+
+
+.main-text{
+margin-left: 10%;
+padding-bottom: 20px;
+}
+
+.main-div p{
+    font-size: 20px;
+font-family: 'Indie Flower', cursive;
+padding: 8px;
+border-radius: 10px;
+
+}
+
+.main-div{
+    float: left;
+    width: 33%;
+    height: 700px;
+    background-color:  rgba(29, 214, 29, 0.571);
+    
+}
+
+.main-div .img1{
+    height: 350px;
+}
+
+.main-div .img{
+    height: 700px;
+}
+
+.main h1{
+    font-size: 40px;
+}
+
+.main-div .main-text{
+    margin: 5%;
+}
+
+.shop-opentext{
+    margin-left: 30px;
+    margin-right: -20px;
+    font-size: 30px;
+
+}
+
+.shoptimings{
+    float: left;
+    width: 33%;
+    height: 405px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color:  rgba(29, 214, 29, 0.571);;
+}
+
+.images{
+    height: 200px;
+    
+
+}
+
+.latestp{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Indie Flower', cursive;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.mainlpi{
+    background-color: rgba(29, 214, 29, 0.571);
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.lpi{
+    margin-left: 300px;
+}
+
+.footermain{
+    width: 100%;
+    background-color: rgba(29, 214, 29, 0.571);
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.column{
+    width: 33%;
+    float: left;
+    font-size: 17px;
+}
+
+.footerheading{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.tel{
+    text-decoration: none;
+}
+
+.fimg{
+    width: 180px;
+}
