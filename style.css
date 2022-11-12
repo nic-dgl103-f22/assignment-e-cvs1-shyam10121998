@@ -1,133 +1,141 @@
 ul {
-    width: 1335px;
+    width: max-content;
     }
 
 li {
-    float: right;
+    float:left;
     line-height:20px;
-    height:96px;
-    width:110px;
+    height:80px;
+    width:150px;
+    margin-left: 50px;
     margin-top: 34px;
     list-style: none;
-    color: white;
+
+    }
+
+.hovera{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
 }
 
+.hovera:hover{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgba(6, 230, 6, 0.793);
+}
 .header-div{
     float: left;
-    background-color: gray;
+    margin-left: 40px;
 }
 
-.main1{
-    width: 1520px;
+h1{
+    font-family: 'Island Moments', cursive;
+   text-align: center;
 }
 
-.main-div1{
+
+.main-text{
+margin-left: 10%;
+padding-bottom: 20px;
+}
+
+.main-div p{
+    font-size: 20px;
+font-family: 'Indie Flower', cursive;
+padding: 8px;
+border-radius: 10px;
+
+}
+
+.main-div{
     float: left;
-    width: 760px;
-    padding-top: 30px;
+    width: 33%;
+    height: 700px;
+    background-color:  rgba(29, 214, 29, 0.571);
+    
+}
+
+.main-div .img1{
     height: 350px;
-    background-color: rgb(167, 162, 167);
 }
 
-.main-div1 h3{
-    margin-left: 200px;
+.main-div .img{
+    height: 700px;
 }
 
-.p1{
-    margin-left: 200px;
+.main h1{
+    font-size: 40px;
 }
 
-.b1{
-    margin-left: 200px;
-    background-color: orangered;
-    border: 0px;
-    color: white;
+.main-div .main-text{
+    margin: 5%;
 }
 
+.shop-opentext{
+    margin-left: 30px;
+    margin-right: -20px;
+    font-size: 30px;
 
-
-
-.main2{
-width: 1520px;
 }
 
-.main-div2{
+.shoptimings{
     float: left;
-    width: 303px;
-    border-radius: 2px;
-    padding-left: 203px;
+    width: 33%;
+    height: 405px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color:  rgba(29, 214, 29, 0.571);;
 }
 
-.b2{
-    background-color: orangered;
-    width: 80px;
-    font-size: 14px;
-    padding-left: 2px;
-    padding-right: 2px;
-    border-radius: 2px;
+.images{
+    height: 200px;
+    
+
+}
+
+.latestp{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Indie Flower', cursive;
+    padding-top: 40px;
     text-align: center;
-    color: white;
-    border: 0px;
 }
 
-.main3{
-    width: 1520px;
+.mainlpi{
+    background-color: rgba(29, 214, 29, 0.571);
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.lpi{
+    margin-left: 300px;
 }
 
-.main-div3{
-    margin-top: 10px;
-    width: 500px;
+.footermain{
+    width: 100%;
+    background-color: rgba(29, 214, 29, 0.571);
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.column{
+    width: 33%;
     float: left;
-    background-color: gray;
-    height: 270px;
+    font-size: 17px;
 }
 
-.p4{
-    font-size: 16px;
+.footerheading{
     font-weight: bold;
-    padding-left: 200px;
-    color: white;
-    padding-top: 20px;
+    font-size: 18px;
 }
 
-.p5{
-    font-size: 15px;
-    font-weight: bold;
-    padding-left: 200px;
-    color: white;
+.tel{
+    text-decoration: none;
 }
 
-.p6{
-    font-size: 14px;
-    padding-left: 200px;
-    color: white;
-}
-
-.b3{
-    background-color: orangered;
-    width: 85px;
-    font-size: 14px;
-    padding-left: 2px;
-    padding-right: 2px;
-    border-radius: 2px;
-    text-align: center;
-    color: white;
-    border: 0px;
-    margin-left: 200px;
-}
-
-
-
-.B{
-    background-color: black;
+.fimg{
     width: 180px;
-    height: 180px;
-    margin-top: 20px;
-}
-
-.p7{
-    color: gray;
-    font-size: 12px;
-    text-align: center;
-    margin-top: 30px;
 }
